@@ -74,9 +74,7 @@ This project is a simple implementation of the classic Snake Game using Java and
 5. **Scoring:**
     - The score increases by one each time an apple is eaten. The score is displayed at the top of the game window.
 
-## Screenshot
 
-![Snake Game Screenshot](path_to_screenshot_image)
 
 ## Future Enhancements
 
